@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMembershipTest", "SimpleMembershipTest\SimpleMembershipTest.csproj", "{FEDDEBE9-7978-4B6B-9945-2BCE0695277C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMembershipTest.Dac", "SimpleMembershipTest.Dac\SimpleMembershipTest.Dac.csproj", "{B5C5F5DC-37EC-4C34-B4EB-ED84D7EDD683}"
